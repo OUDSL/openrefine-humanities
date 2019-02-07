@@ -11,7 +11,12 @@ Created by Tara Carlisle
 * [Cleaning Data](#cleaning-data)
 
 ## Introduction
-* This lesson will walk you through the steps of using Open Refine to cleany messy data gathered from other sources or perhaps compiled yourself over time. We will cover some common 
+* This lesson will walk you through the steps of using Open Refine to cleany messy data that you have gathered from other sources or perhaps compiled yourself over time. You will learn how to:
+
+** clean up spelling inconsistencies
+** split cells into multiple columns
+** remove leading and trailing spaces
+** blank spaces
 
 ## What is OpenRefine?
 * OpenRefine is a free, open source tool that is designed to help you clean messy spreadsheet data in large batches rather than one field at a time. Once downloaded, it will run through your web browser offline. Your computer needs to have [Java JRE](https://www.java.com/en/download/) installed, which most computers have installed already. 
@@ -42,10 +47,10 @@ For this lesson, you can [download the dataset here.](https://github.com/tmcarli
 * Reconciling 
 * Split values
 
-Credits: 
-Sarah Pugachev, OU Libraries, Digital Scholarship Specialist, https://oudsl.github.io/openrefine-tutorial/
-Dr. Miriam Posner, UCLA, DH101, http://miriamposner.com/classes/dh101f17/  
-Evan Williamson, University of Idaho, https://uidaholib.github.io/clean-your-data/
+Crediting: 
+* Sarah Pugachev, OU Libraries, Digital Scholarship Specialist, https://oudsl.github.io/openrefine-tutorial/
+* Dr. Miriam Posner, UCLA, DH101, http://miriamposner.com/classes/dh101f17/  
+* Evan Williamson, University of Idaho, https://uidaholib.github.io/clean-your-data/
 
 [Return to Top](#about)
 © 2019 GitHub, Inc.
