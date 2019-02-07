@@ -22,7 +22,7 @@ Created by Tara Carlisle
 You can download the OpenRefine software from http://openrefine.org/download.html that provides links for downloading is to Windows, Macs, and Linux operating systems. For this lesson, we will be working with OpenRefine version 3.0 or later. 
 
 ### Getting the Data
-The data we are using for this lesson is the [1890 Oklahoma Territorial Census](https://www.okhistory.org/research/1890), which is a subset of data from Oklahoma Historial Society's [Research Center](https://www.okhistory.org/research/index) website that provides access to host of historical data related to Oklahoma. 
+The data we are using for this lesson is the [1890 Oklahoma Territorial Census](https://www.okhistory.org/research/1890), which is a subset of data from [Oklahoma Historial Society's Research Center](https://www.okhistory.org/research/index) that provides online access to a host of historical data related to Oklahoma. 
 
 You can download the dataset here. 
 
