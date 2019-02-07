@@ -13,10 +13,10 @@ Created by Tara Carlisle
 ## Introduction
 * This lesson will walk you through the steps of using Open Refine to cleany messy data that you have gathered from other sources or perhaps compiled yourself over time. You will learn how to:
 
-** clean up spelling inconsistencies
-** split cells into multiple columns
-** remove leading and trailing spaces
-** blank spaces
+..** clean up spelling inconsistencies
+..** split cells into multiple columns
+..** remove leading and trailing spaces
+..** blank spaces
 
 ## What is OpenRefine?
 * OpenRefine is a free, open source tool that is designed to help you clean messy spreadsheet data in large batches rather than one field at a time. Once downloaded, it will run through your web browser offline. Your computer needs to have [Java JRE](https://www.java.com/en/download/) installed, which most computers have installed already. 
