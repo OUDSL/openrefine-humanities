@@ -11,7 +11,7 @@ Created by Tara Carlisle
 * [Cleaning Data](#cleaning-data)
 
 ## Introduction
-* This lesson will walk you through the steps of using Open Refine to cleany messy data gathered from other sources or perhaps compiled yourself over time. Examples of messy data include capitalization inconsistencies, date formats, and alternative spellings for personal names, locations, or organizations. 
+* This lesson will walk you through the steps of using Open Refine to cleany messy data gathered from other sources or perhaps compiled yourself over time. We will cover some common 
 
 ## What is OpenRefine?
 * OpenRefine is a free, open source tool that is designed to help you clean messy spreadsheet data in large batches rather than one field at a time. Once downloaded, it will run through your web browser offline. Your computer needs to have [Java JRE](https://www.java.com/en/download/) installed, which most computers have installed already. 
@@ -25,6 +25,8 @@ You can download the OpenRefine software from http://openrefine.org/download.htm
 The data we are using for this lesson is the [1890 Oklahoma Territorial Census](https://www.okhistory.org/research/1890), which is a subset of data from [Oklahoma Historial Society's Research Center](https://www.okhistory.org/research/index) that provides online access to a host of historical data related to Oklahoma. 
 
 For this lesson, you can [download the dataset here.](https://github.com/tmcarlisle/OpenRefine-Humanities/blob/master/1890-OK-Census.xlsx) 
+
+
 
 ## Creating a Project
 
@@ -40,7 +42,10 @@ For this lesson, you can [download the dataset here.](https://github.com/tmcarli
 * Reconciling 
 * Split values
 
-
+Credits: 
+Sarah Pugachev, OU Libraries, Digital Scholarship Specialist, https://oudsl.github.io/openrefine-tutorial/
+Dr. Miriam Posner, UCLA, DH101, http://miriamposner.com/classes/dh101f17/  
+Evan Williamson, University of Idaho, https://uidaholib.github.io/clean-your-data/
 
 [Return to Top](#about)
 © 2019 GitHub, Inc.
