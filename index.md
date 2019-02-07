@@ -11,7 +11,7 @@ Created by Tara Carlisle
 * [Cleaning Data](#cleaning-data)
 
 ## Introduction
-* This lesson will walk you through the steps of using Open Refine to cleany messy data that you have gathered from other sources or perhaps compiled yourself over time. You will learn how to:
+This lesson will walk you through the steps of using Open Refine to cleany messy data that you have gathered from other sources or perhaps compiled yourself over time. You will learn how to:
 
 - clean up spelling inconsistencies
 - split cells into multiple columns
