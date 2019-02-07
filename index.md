@@ -4,11 +4,11 @@ Created by Tara Carlisle
  
 ### Table of Contents
 
-* [What is Messy Data?](##-what-is-messy-data)
-* [Getting Started](##-getting-started) 
-* [Creating a Project](##-creating-a-project)
-* [Navigating Open Refine](##-navigating-open-refine)
-* [Cleaning Data](##-cleaning-data)
+* [What is Messy Data?](#what-is-messy-data)
+* [Getting Started](#getting-started) 
+* [Creating a Project](#creating-a-project)
+* [Navigating Open Refine](#navigating-open-refine)
+* [Cleaning Data](#cleaning-data)
 
 ## Introduction
 
