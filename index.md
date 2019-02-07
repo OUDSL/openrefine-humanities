@@ -4,10 +4,11 @@ Created by Tara Carlisle
  
 ### Table of Contents
 
-* [Learn the basics of OpenRefine](#1-basics-of-openrefine)
-* [Request an API key](#2-create-a-project) 
-* [Submit an API request to DPLA](#3-submit-an-api-request-to-the-digital-public-library-of-america)
-* [Convert downloaded data to a CSV file](#4-convert-json-data-to-csv-file)
+* [What is Messy Data?](##-what-is-messy-data)
+* [Getting Started](##-getting-started) 
+* [Creating a Project](##-creating-a-project)
+* [Navigating Open Refine](##-navigating-open-refine)
+* [Cleaning Data](##-cleaning-data)
 
 ## Introduction
 
