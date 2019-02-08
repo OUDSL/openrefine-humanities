@@ -19,7 +19,7 @@ This lesson will walk you through the steps of using Open Refine to cleany messy
 - split cells into multiple columns
 
 ## What is OpenRefine?
-* OpenRefine is a free, open source tool that is designed to help you clean messy spreadsheet data in large batches rather than one field at a time. 
+OpenRefine is a free, open source tool that is designed to help you clean messy spreadsheet data in large batches rather than one field at a time. 
 
 ## Getting Started
 
