@@ -53,7 +53,7 @@ Your OpenRefine project is automatically saved in your OpenRefine application. T
 If you'd like to export your project, when it is open click on Export in the upper right corner and from the pull-down menu choose the file format that you need. 
 
 ### Cleaned up data
-[Download](https://github.com/tmcarlisle/OpenRefine-Humanities/blob/master/1890-OK-Census.xlsx) revised 1890 Oklahoma Census. 
+[Download](https://github.com/tmcarlisle/OpenRefine-Humanities/blob/master/1890_OKCensus_rev-02-08-2019.xlsx) revised 1890 Oklahoma Census. 
 
 Crediting and resources: 
 * OpenRefine Documentation, https://github.com/OpenRefine/OpenRefine/wiki/Documentation-For-Users
