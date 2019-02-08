@@ -50,7 +50,10 @@ Click on Create Project and then Choose Files and upload the 1890-OK-Census file
 ## Exporting 
 Your OpenRefine project is automatically saved in your OpenRefine application. To view your saved projects, click on the OpenRefine logo in the upper left corner and then click on Open Projects to view your saved projects.
 
-If you'd like to export your project, when it is open click on Export in the upper right corner 
+If you'd like to export your project, when it is open click on Export in the upper right corner and from the pull-down menu choose the file format that you need. 
+
+### Cleaned up data
+Link to revised 1890 Oklahoma Census: 
 
 Crediting and resources: 
 * OpenRefine Documentation, https://github.com/OpenRefine/OpenRefine/wiki/Documentation-For-Users
